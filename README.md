@@ -7,8 +7,7 @@
 ---
 
 ## 📖 Overview  
-VirusTotal is an online **cybersecurity platform** that provides multi-engine malware detection and threat intelligence.  
-Owned by **Alphabet (Google)**, it processes millions of files, URLs, IPs, and domains daily for researchers and professionals.  
+VirusTotal is a cloud-based cybersecurity platform that leverages the power of 70+ antivirus engines, threat intelligence feeds, and sandboxing technologies to detect and analyze malicious files, URLs, domains, and IP addresses.  
 
 ---
 
