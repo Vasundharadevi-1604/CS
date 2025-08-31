@@ -1,8 +1,11 @@
 # VirusTotal – A Multi-Engine Malware Detection Platform
 
 📌 Author: P. Vasundhara Devi
+
 📌 Program Name: Cyber Security
+
 📌 Date: 01/09/2025
+
 📌 GitHub Repository: CS Repository
 
 ---
@@ -86,8 +89,11 @@ API Reliability: 99.9% uptime for enterprise
 ## ✅ Results: VirusTotal is an industry-standard threat detection platform.
 
 📦 Deliverables
+
 📁 GitHub Repository – Code & documentation
+
 📑 User Training Materials – Guides & presentations
+
 🔧 Troubleshooting Guide – Common issues & fixes
 
 ---
