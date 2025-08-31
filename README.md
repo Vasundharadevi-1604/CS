@@ -1,4 +1,4 @@
-# VirusTotal – Malware Detection Platform  
+# VirusTotal – A Multi-Engine Malware Detection Platform  
 
 📌 **Author:** P. Vasundhara Devi  
 📌 **Program:** Cyber Security  
@@ -37,7 +37,7 @@ Owned by **Alphabet (Google)**, it processes millions of files, URLs, IPs, and d
   
 ---
 
-## 🏁 Conclusion
+## 🎯 Conclusion
 
 VirusTotal is a cornerstone in collaborative cybersecurity, combining:
 Multi-engine malware detection
